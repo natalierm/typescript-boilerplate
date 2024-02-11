@@ -1,0 +1,21 @@
+{
+  "name": "ts-boilerplate",
+  "version": "1.0.0",
+  "description": "typescript boilerplate",
+  "main": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node dist/src/index.js",
+    "build": "tsc"
+  },
+  "author": "Matt Natalier",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}

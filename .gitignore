@@ -1,0 +1,13 @@
+# Built/compiled files
+dist
+js
+
+# Dependency directories
+node_modules
+
+# IDE-specific files
+.idea
+
+# Ignore specific configuration files.
+config.json
+config.ts
